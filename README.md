@@ -1,5 +1,6 @@
 # TD3 — Web scraping and converting unstructured text into a measurable KPI
 
+> **[dashboard is live](https://business-intelligence-26.github.io/scraping-to-kpi/)**
 
 **How to use this document:** every reflection question below is marked
 **Reflect:**. Answer each one — 2-4 honest sentences, based on something you
