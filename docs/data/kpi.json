@@ -1,0 +1,50 @@
+{
+  "generated_at": "2026-11-12T18:37:22Z",
+  "kpi_label": "% of postings mentioning 'docker'",
+  "kpi_value": 0.583,
+  "n_postings_analyzed": 12,
+  "n_matching": 7,
+  "top_skills": [
+    {
+      "skill": "Docker",
+      "count": 7
+    },
+    {
+      "skill": "AWS",
+      "count": 6
+    },
+    {
+      "skill": "Python",
+      "count": 5
+    },
+    {
+      "skill": "Terraform",
+      "count": 2
+    },
+    {
+      "skill": "AI",
+      "count": 1
+    },
+    {
+      "skill": "computer vision",
+      "count": 1
+    },
+    {
+      "skill": "360\u00b0 video",
+      "count": 1
+    },
+    {
+      "skill": "generative AI",
+      "count": 1
+    },
+    {
+      "skill": "Deep learning",
+      "count": 1
+    },
+    {
+      "skill": "AI models",
+      "count": 1
+    }
+  ],
+  "avg_skills_per_posting": 7.0
+}
